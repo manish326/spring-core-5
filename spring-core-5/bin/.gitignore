@@ -1,2 +1,6 @@
 /applicationContext.xml
 /com
+/dependancyInjectionContext.xml
+/setterInjectionContext.xml
+/literalInjectionContext.xml
+/sport.properties
