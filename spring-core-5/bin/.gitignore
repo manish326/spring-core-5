@@ -4,3 +4,4 @@
 /setterInjectionContext.xml
 /literalInjectionContext.xml
 /sport.properties
+/beanScope-applicationContext.xml
